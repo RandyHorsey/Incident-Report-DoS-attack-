@@ -10,5 +10,5 @@ In this example here is an incident report that is created for a company to revi
 <h2>Documents:</h2>
 
  <h4>
-Cybersecurity Incent Report: </h4>
+Cybersecurity Incident Report: </h4>
 <img src="https://imgur.com/FBa09EU.png" height="70%" width="70%" />
